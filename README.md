@@ -1,4 +1,4 @@
-# ananyapaliwal07.github.io
+# Amazon Clone
 
 This is a simple Amazon clone built using only HTML and CSS. It replicates the basic structure and styling of Amazon's homepage without any backend or JavaScript functionality.
 
